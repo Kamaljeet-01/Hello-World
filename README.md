@@ -1,3 +1,4 @@
 # Hello-World
-This repository is used for starting my journey with GitHub. 
-This is the first time i have used Git Hub repository and i loved it.
+This repository is my first repository to my new journey with GitHub. 
+This is the first time i have used Git Hub and i loved it.
+
